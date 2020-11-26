@@ -6,7 +6,7 @@
 # 
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
-name: 测试
+name: ac2100
 on:
   #push:
   #  branches: 
