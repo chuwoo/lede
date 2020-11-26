@@ -8,10 +8,10 @@
 #
 name: ac2100
 on:
-  push:
-    branches: 
-      - master
-  schedule:
+  #push:
+  #  branches: 
+  #    - master
+  #schedule:
     - cron: 0 20 * * *
   # release:
   #   types: [published]
